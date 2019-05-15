@@ -1,0 +1,123 @@
+<manifest alg="2" build="2017.0.3.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="sputnikseng.ru" resolutions="1x" timestamp="1550413060862">
+  <folder name="css">
+    <file name="site_global.css" crc="443350757"/>
+    <file name="master_______-b.css" crc="179631384" ref="adminnews:adminusl:admin5926:admindoc:admininf:adminanons"/>
+    <file name="master_______-a.css" crc="4260637060" ref="anons:document:uslugi:report:information:page:merop:index:news"/>
+    <file name="anons.css" crc="4068338558" ref="anons"/>
+    <file name="adminnews.css" crc="4260386741" ref="adminnews"/>
+    <file name="document.css" crc="3766455888" ref="document"/>
+    <file name="adminusl.css" crc="4165301658" ref="adminusl"/>
+    <file name="uslugi.css" crc="3931901686" ref="uslugi"/>
+    <file name="report.css" crc="3885465962" ref="report"/>
+    <file name="information.css" crc="439277623" ref="information"/>
+    <file name="page.css" crc="319780738" ref="page"/>
+    <file name="admin5926.css" crc="3841777697" ref="admin5926"/>
+    <file name="merop.css" crc="87946844" ref="merop"/>
+    <file name="index.css" crc="3811505382" ref="index"/>
+    <file name="news.css" crc="4273386714" ref="news"/>
+    <file name="admindoc.css" crc="277368611" ref="admindoc"/>
+    <file name="admininf.css" crc="4103654798" ref="admininf"/>
+    <file name="adminanons.css" crc="228073204" ref="adminanons"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:information:anons:news:uslugi:document:report:page:admin5926:admininf:adminanons:adminnews:admindoc:adminusl:merop"/>
+    <file name="museutils.js" crc="46400467" ref="index:information:anons:news:uslugi:document:report:page:admin5926:admininf:adminanons:adminnews:admindoc:adminusl:merop"/>
+    <file name="whatinput.js" crc="86476730" ref="index:information:anons:news:uslugi:document:report:page:admin5926:admininf:adminanons:adminnews:admindoc:adminusl:merop"/>
+    <file name="museconfig.js" crc="436936948" ref="index:information:anons:news:uslugi:document:report:page:admin5926:admininf:adminanons:adminnews:admindoc:adminusl:merop"/>
+    <file name="jquery.watch.js" crc="4178585335" ref="index:information:anons:news:uslugi:document:report:page:admin5926:admininf:adminanons:adminnews:admindoc:adminusl:merop"/>
+    <file name="require.js" crc="85721165" ref="index:information:anons:news:uslugi:document:report:page:admin5926:admininf:adminanons:adminnews:admindoc:adminusl:merop"/>
+  </folder>
+  <folder name="images">
+    <file name="dscn5788.jpg" crc="522093097" seo="true" ref="index:information:anons:news:uslugi:document:report:page:merop">
+      <caption webpage="information" alt=""/>
+      <caption webpage="uslugi" alt=""/>
+      <caption webpage="anons" alt=""/>
+      <caption webpage="document" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="report" alt=""/>
+      <caption webpage="page" alt=""/>
+      <caption webpage="news" alt=""/>
+      <caption webpage="merop" alt=""/>
+    </file>
+    <file name="icons8-одноклассники-480.png" crc="4024420463" seo="true" ref="index:information:anons:news:uslugi:document:report:page:merop">
+      <caption webpage="information" alt=""/>
+      <caption webpage="uslugi" alt=""/>
+      <caption webpage="anons" alt=""/>
+      <caption webpage="document" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="report" alt=""/>
+      <caption webpage="page" alt=""/>
+      <caption webpage="news" alt=""/>
+      <caption webpage="merop" alt=""/>
+    </file>
+    <file name="icons8-вконтакте-480.png" crc="4094704951" seo="true" ref="index:information:anons:news:uslugi:document:report:page:merop">
+      <caption webpage="information" alt=""/>
+      <caption webpage="uslugi" alt=""/>
+      <caption webpage="anons" alt=""/>
+      <caption webpage="document" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="report" alt=""/>
+      <caption webpage="page" alt=""/>
+      <caption webpage="news" alt=""/>
+      <caption webpage="merop" alt=""/>
+    </file>
+    <file name="icons8-маркер-места-48.png" crc="4155741371" seo="true" ref="index:information:anons:news:uslugi:document:report:page:merop">
+      <caption webpage="information" alt=""/>
+      <caption webpage="uslugi" alt=""/>
+      <caption webpage="anons" alt=""/>
+      <caption webpage="document" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="report" alt=""/>
+      <caption webpage="page" alt=""/>
+      <caption webpage="news" alt=""/>
+      <caption webpage="merop" alt=""/>
+    </file>
+    <file name="вставленное изображение 1000x250.jpg" crc="4087729052" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="вставленное изображение 4160x3120.jpg" crc="4076851893" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="вставленное изображение 2560x1810.jpg" crc="208897140" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="вставленное изображение 2480x3508.jpg" crc="4266422738" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="вставленное изображение 2480x35082.jpg" crc="155637711" seo="true" ref="anons">
+      <caption webpage="anons" alt=""/>
+    </file>
+    <file name="вставленное изображение 1280x960.jpg" crc="4252155979" seo="true" ref="news:page:merop">
+      <caption webpage="news" alt=""/>
+      <caption webpage="page" alt=""/>
+      <caption webpage="merop" alt=""/>
+    </file>
+    <file name="вставленное изображение 2560x1810620x439.jpg" crc="36657260" seo="true" ref="admin5926">
+      <caption webpage="admin5926" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="472676817" seo="true" mt="1550412619517" redirect="true"/>
+  <file name="information.html" crc="437405" seo="true" mt="1550411773237" redirect="true"/>
+  <file name="anons.html" crc="4188136356" seo="true" mt="1550411773237" redirect="true"/>
+  <file name="news.html" crc="3818842992" seo="true" mt="1550411773237" redirect="true"/>
+  <file name="uslugi.html" crc="172904293" seo="true" mt="1550411773237" redirect="true"/>
+  <file name="document.html" crc="3941672608" seo="true" mt="1550411773237" redirect="true"/>
+  <file name="report.html" crc="3917200664" seo="true" mt="1550411773237" redirect="true"/>
+  <file name="page.html" crc="4289568603" seo="true" mt="1550411773237" redirect="true"/>
+  <file name="admin5926.html" crc="3825406667" seo="true" mt="1550412072427" redirect="true"/>
+  <file name="admininf.html" crc="161806666" seo="true" mt="1550411936520" redirect="true"/>
+  <file name="adminanons.html" crc="174066804" seo="true" mt="1550412240738" redirect="true"/>
+  <file name="adminnews.html" crc="3821936588" seo="true" mt="1550412210197" redirect="true"/>
+  <file name="admindoc.html" crc="4289706273" seo="true" mt="1550412325812" redirect="true"/>
+  <file name="adminusl.html" crc="3866214208" seo="true" mt="1550412168533" redirect="true"/>
+  <file name="merop.html" crc="4000377698" seo="true" mt="1550412842570" redirect="true"/>
+</manifest>
